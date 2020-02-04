@@ -1,9 +1,11 @@
 # Operationalize-a-Machine-Learning-Microservice-API
 
 ## Project Tasks
-The project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. This project will cover:
+The project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. 
 
-Testing the code using linting
+### This project will cover:
+
+ - Testing the code using linting
 - Completing a Dockerfile to containerize this application
 - Deploying the containerized application using Docker and making a prediction
 - Improving the log statements in the source code for this application
