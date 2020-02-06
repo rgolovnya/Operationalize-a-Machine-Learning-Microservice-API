@@ -1,7 +1,7 @@
 # Operationalize-a-Machine-Learning-Microservice-API
 
 ## Project Tasks
-The project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. 
+The project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications.
 
 ## This project will cover:
 
@@ -25,10 +25,9 @@ The project goal is to operationalize this working, machine learning microservic
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
 
-### Running the project in Kubernetes
+#### Running the project in Kubernetes
 
 1. Run `minikube start` to start the VM in which the Kubernetes cluster will run; if your machine does not support virtualization, run `sudo minikube start --vm-driver=none`.
 2. Run `./upload_docker.sh` to upload the image to Docker Hub.
 3. Run `./run_kubernetes.sh` to fetch the image from Docker Hub and run it locally in `minikube`; it might be necessary to run this two times, since pulling the image usually takes some time.
 4. In a new bash instance, run `./make_prediction.sh` to send a request; output examples can be found in the `output_txt_files` folder.
-
