@@ -1,5 +1,11 @@
 # Operationalize-a-Machine-Learning-Microservice-API
 
+[![CircleCI](https://circleci.com/gh/rgolovnya/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)]
+(https://circleci.com/gh/rgolovnya/Operationalize-a-Machine-Learning-Microservice-API)
+
+
+
+
 ## Project Tasks
 The project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications.
 
