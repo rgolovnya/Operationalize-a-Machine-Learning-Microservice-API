@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=roman79/aprediction
+dockerpath=romango/aprediction
 
 # Step 2:
 # Authenticate & tag

@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath=roman79/aprediction
+dockerpath=romango/aprediction
 
 
 # Step 2
