@@ -1,7 +1,6 @@
 # Operationalize-a-Machine-Learning-Microservice-API
 
-[![CircleCI](https://circleci.com/gh/rgolovnya/Operationalize-a-Machine-Learning-Microservice-API/tree/master.svg?style=svg)]
-(https://circleci.com/gh/rgolovnya/Operationalize-a-Machine-Learning-Microservice-API/tree/master)
+[![CircleCI](https://circleci.com/gh/rgolovnya/Operationalize-a-Machine-Learning-Microservice-API/tree/master.svg?style=svg)](https://circleci.com/gh/rgolovnya/Operationalize-a-Machine-Learning-Microservice-API/tree/master)
 
 
 
